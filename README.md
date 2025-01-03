@@ -1,4 +1,4 @@
-# Stock Market Prediction | Machine Learning Project
+# Stock Market Prediction
 Welcome to the "Stock Market Prediction" project repository! This project aims to provide practical experience in predicting stock market prices using various machine learning models, including LSTM (Long Short-Term Memory) networks and traditional machine learning algorithms. The project simulates a real-world corporate environment, emphasizing the entire process from problem definition to model implementation and evaluation.
 
 ## Project Overview
